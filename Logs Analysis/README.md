@@ -15,7 +15,7 @@ Please follow these steps to run the program:
 
   2. where to get the newsdata.sql file with the database schema and data.
     - All of the data files can be found here:
-
+      https://github.com/Mr-Sidhu/Logs-Analysis
 
   3. how to create the required views statements
 
